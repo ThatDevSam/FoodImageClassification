@@ -6,9 +6,9 @@ The CNN is able to classify the test set food image correctly **87%** of the tim
 
 ### Business Applications:
 * One key application of image classification is content moderation. The ability to efficiently analyze and flag images that do not align with a community's guidelines is an invaluable tool for today's social media sites.
-* Another prominent application is security. For example, enabling law enforcement to accurately identify weapons in images and video is more important now than ever before.
+* Another prominent application  of image classification is security. For example, enabling law enforcement to accurately identify weapons in images and video is more important now than ever before.
 
-### Ways to increase the model's accuracy even more:
+### Strategies for improving the model's performance:
 * Explore techniques for addressing the class imbalance like over sampling/under sampling or creating synthetic data for the minority class.
 * Apply data augmentations like rotations or flips.
 * Continue to tinker with the model's architecture by adding more dense layers, manipulating the kernel filters in the convolution layer, applying batch normalization layers, or adding in regularization.
